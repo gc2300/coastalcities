@@ -17,4 +17,4 @@ The program generates estimated losses at building level, and a rank-ordering of
 
 Thanks to Prof. Masoud Ghandehari for his guidance on this work.
 
-Nick Jones, Guobing Chen, NYU Center for Urban Science and Progress (September 2018).
+**Nick Jones, Guobing Chen, NYU Center for Urban Science and Progress (September 2018).**
